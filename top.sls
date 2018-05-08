@@ -1,0 +1,5 @@
+base:
+  '*':
+    - httpd
+    - mysql
+    - source 
